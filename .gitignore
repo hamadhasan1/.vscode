@@ -1,0 +1,4 @@
+/.mypy_cache
+/argv.json
+/cli
+/extensions
